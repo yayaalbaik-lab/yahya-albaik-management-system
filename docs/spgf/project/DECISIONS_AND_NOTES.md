@@ -11,7 +11,6 @@ It may be split into separate registers later if the project grows.
 
 ## Open Questions
 
-- What are the core items that must be counted daily in phase one?
 - What does "matching the next day" mean exactly: same quantity, expected quantity after sales, or manager-approved difference?
 - Will the first phase use only manual counts, or will it read sales/consumption data from SQL Server?
 - Is SQL Server integration read-only in all cases?
@@ -29,6 +28,7 @@ It may be split into separate registers later if the project grows.
 - The existing POS remains in place and will not be replaced in the first phase.
 - The existing POS stores data in SQL Server on the cashier computer.
 - The first phase focuses on daily counting of core items and next-day matching.
+- Current phase-one core items are Broasted, Tikka, Zinger, Escalope, Cola, Shanina, and Water bottles.
 - Flutter is the preferred mobile app candidate unless discovery reveals a better fit.
 
 ## Constraints

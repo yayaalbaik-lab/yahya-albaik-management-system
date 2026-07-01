@@ -19,6 +19,16 @@ The system shall allow authorized users to define or use a list of core inventor
 
 Linked business requirement: `BR-001`
 
+Initial phase-one item list:
+
+- Broasted.
+- Tikka.
+- Zinger.
+- Escalope.
+- Cola.
+- Shanina.
+- Water bottles.
+
 ### FR-002 Record Daily Inventory Count
 
 The system shall allow authorized users to enter daily counts for core inventory items.
@@ -85,4 +95,3 @@ The user experience should be suitable for mobile inventory workflows.
 - Does the app need offline support inside the restaurant?
 - Will phase one read any data from SQL Server, or only prepare for future integration?
 - What backend/API approach best fits local SQL Server access and mobile usage?
-

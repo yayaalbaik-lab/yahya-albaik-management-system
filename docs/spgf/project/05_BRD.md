@@ -31,6 +31,16 @@ Final permissions are not yet approved and must be defined before implementation
 
 The business must be able to record daily counts for core inventory items.
 
+Current phase-one core items:
+
+- Broasted.
+- Tikka.
+- Zinger.
+- Escalope.
+- Cola.
+- Shanina.
+- Water bottles.
+
 ### BR-002 Count History
 
 The business must preserve historical count records by date, item, and user.
@@ -66,4 +76,3 @@ Potential future phases:
 - No warehouse transfer workflow in phase one.
 - POS is installed locally on the cashier computer.
 - POS disruption is not acceptable.
-

@@ -10,11 +10,49 @@ The restaurant location managed by the system. Phase one targets one branch only
 
 ### Core Inventory Item
 
-An item selected for daily counting in the first phase. The final list is not yet defined.
+An item selected for daily counting in the first phase.
+
+Current phase-one core inventory items:
+
+- Broasted.
+- Tikka.
+- Zinger.
+- Escalope.
+- Cola.
+- Shanina.
+- Water bottles.
 
 ### Daily Inventory Count
 
 A recorded count of core inventory items for a specific day.
+
+### Broasted
+
+A phase-one core inventory item.
+
+### Tikka
+
+A phase-one core inventory item.
+
+### Zinger
+
+A phase-one core inventory item.
+
+### Escalope
+
+A phase-one core inventory item.
+
+### Cola
+
+A phase-one core inventory item.
+
+### Shanina
+
+A phase-one core inventory item.
+
+### Water Bottles
+
+A phase-one core inventory item.
 
 ### Count Snapshot
 
@@ -59,4 +97,3 @@ Inventory loss or consumption not explained by normal sale/use. Future phase, no
 ### Delivery-App Reconciliation
 
 Matching restaurant records with delivery app records. Future phase, not phase one.
-

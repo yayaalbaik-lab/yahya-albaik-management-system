@@ -28,6 +28,18 @@ Inventory count entries and corrections must be attributable to a user.
 
 The first phase focuses on daily counts of core inventory items and next-day matching.
 
+### BRULE-007 Initial Phase-One Core Items
+
+For the current phase-one scope, daily inventory counting is limited to:
+
+- Broasted.
+- Tikka.
+- Zinger.
+- Escalope.
+- Cola.
+- Shanina.
+- Water bottles.
+
 ## Candidate Rules Pending Clarification
 
 ### CBR-001 Matching Rule
@@ -47,4 +59,3 @@ Who may edit or correct submitted counts is not yet approved.
 ### CBR-003 Offline Rule
 
 Whether the mobile app must work offline inside the restaurant is not yet approved.
-
