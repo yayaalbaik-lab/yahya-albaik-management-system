@@ -47,6 +47,7 @@ It may be split into separate registers later if the project grows.
 
 - Project-specific SPGF profile starts as `Standard`.
 - General SPGF documents remain reference-only under `docs/spgf/general`.
+- Codex working behavior is governed by `CODEX_WORKING_AGREEMENT.md`, under the authority of SPGF and the project-specific application documents.
 
 ## Information Classification Rule
 

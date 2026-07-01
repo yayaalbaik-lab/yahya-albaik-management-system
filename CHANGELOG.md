@@ -7,3 +7,4 @@
 - Adopted Engineering Standards `23 v1.1`.
 - Created initial project-specific SPGF application documents.
 - Added initial project Charter, BRD, SRS, Glossary, Business Rules, RTM, and Out Of Scope documents.
+- Added Codex working agreement for governance-aware analysis, implementation, review, and documentation discipline.
