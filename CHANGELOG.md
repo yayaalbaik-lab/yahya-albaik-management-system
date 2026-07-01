@@ -1,0 +1,9 @@
+# Changelog
+
+## 2026-07-01
+
+- Initialized project repository.
+- Adopted SPGF Constitution `v6.2`.
+- Adopted Engineering Standards `23 v1.1`.
+- Created initial project-specific SPGF application documents.
+
