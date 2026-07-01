@@ -53,4 +53,8 @@ It may be split into separate registers later if the project grows.
 - Charter: project purpose, scope, stakeholders, constraints, profile, and success direction.
 - BRD: business needs, business processes, users, role expectations, business rules, and future capabilities.
 - SRS: functional requirements, non-functional requirements, system behavior, interfaces, and technical constraints.
+- Glossary: terms and definitions used by the business and system.
+- Business Rules: approved or candidate business rules.
+- RTM: links between business requirements and software requirements.
+- Out Of Scope: deferred or excluded capabilities.
 - Decisions And Notes: open questions, assumptions, constraints not yet approved, and early decisions.
