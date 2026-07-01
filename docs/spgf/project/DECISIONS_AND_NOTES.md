@@ -42,6 +42,7 @@ It may be split into separate registers later if the project grows.
 - Keep general SPGF documents unchanged.
 - Future phases may include waste, profitability, and delivery-app reconciliation.
 - From this point forward, new information should be classified and written directly into the correct document: Charter, BRD, SRS, or this notes file.
+- No project-relevant information should remain only in chat. Each new statement must be classified and recorded in the correct document, or captured as an open question/assumption if not yet clear.
 
 ## Early Decisions
 
@@ -59,3 +60,13 @@ It may be split into separate registers later if the project grows.
 - RTM: links between business requirements and software requirements.
 - Out Of Scope: deferred or excluded capabilities.
 - Decisions And Notes: open questions, assumptions, constraints not yet approved, and early decisions.
+
+## Mandatory Intake Procedure
+
+For each new project-relevant user message:
+
+1. Classify each distinct piece of information.
+2. Update the correct document immediately.
+3. Update RTM if BRD/SRS requirements are added or changed.
+4. Record unresolved ambiguity as an open question.
+5. Mention the classification and updated document(s) in the response.

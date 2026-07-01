@@ -77,6 +77,16 @@ Whenever the user provides new information, Codex must classify it and update th
 - ADR: hard-to-reverse architecture decisions.
 - Technical Debt Register: accepted shortcuts or temporary compromises.
 
+For every new project-relevant user statement, Codex must explicitly identify the classification before or while updating documents. If one statement affects more than one document, Codex must update all affected documents.
+
+If the information creates or changes a business requirement, Codex must update the BRD and then update RTM when a matching software requirement exists or is created.
+
+If the information creates or changes system behavior, Codex must update the SRS and then update RTM when it maps to an existing or new business requirement.
+
+If the information is unclear, Codex must record it as an open question or assumption in `DECISIONS_AND_NOTES.md` instead of silently ignoring it.
+
+No project-relevant information should remain only in the chat.
+
 ## Engineering Discipline
 
 Codex must protect:
@@ -116,4 +126,3 @@ Codex reviews solutions as a principal engineer and looks for:
 - Missing tests.
 - Documentation drift.
 - Unregistered technical debt.
-
