@@ -11,21 +11,38 @@ It may be split into separate registers later if the project grows.
 
 ## Open Questions
 
-- What is the initial MVP scope?
-- Which workflows are Must Have for first release?
-- Which users and roles are required?
+- What are the core items that must be counted daily in phase one?
+- What does "matching the next day" mean exactly: same quantity, expected quantity after sales, or manager-approved difference?
+- Will the first phase use only manual counts, or will it read sales/consumption data from SQL Server?
+- Is SQL Server integration read-only in all cases?
+- Will the mobile app need to work offline inside the restaurant?
+- Who is allowed to edit or correct a submitted count?
+- What roles are required in the first release: owner, manager, cashier, employee, or more?
 - What reports are required from day one?
+- Should Flutter be confirmed as the mobile app framework?
 
 ## Assumptions
 
 - Initial project profile is `Standard`.
-- The project will include inventory and pricing logic.
+- The project is for one branch only.
+- There is no warehouse transfer workflow in the first phase.
+- The existing POS remains in place and will not be replaced in the first phase.
+- The existing POS stores data in SQL Server on the cashier computer.
+- The first phase focuses on daily counting of core items and next-day matching.
+- Flutter is the preferred mobile app candidate unless discovery reveals a better fit.
 
 ## Constraints
 
-- None recorded yet.
+- Existing POS is local/basic and must not be disrupted.
+- SQL Server is installed on the cashier computer.
+- Any direct POS database integration must be designed carefully and preferably read-only at first.
 
 ## Notes
 
 - Keep general SPGF documents unchanged.
+- Future phases may include waste, profitability, and delivery-app reconciliation.
 
+## Early Decisions
+
+- Project-specific SPGF profile starts as `Standard`.
+- General SPGF documents remain reference-only under `docs/spgf/general`.
