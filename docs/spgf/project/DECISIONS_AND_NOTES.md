@@ -41,8 +41,16 @@ It may be split into separate registers later if the project grows.
 
 - Keep general SPGF documents unchanged.
 - Future phases may include waste, profitability, and delivery-app reconciliation.
+- From this point forward, new information should be classified and written directly into the correct document: Charter, BRD, SRS, or this notes file.
 
 ## Early Decisions
 
 - Project-specific SPGF profile starts as `Standard`.
 - General SPGF documents remain reference-only under `docs/spgf/general`.
+
+## Information Classification Rule
+
+- Charter: project purpose, scope, stakeholders, constraints, profile, and success direction.
+- BRD: business needs, business processes, users, role expectations, business rules, and future capabilities.
+- SRS: functional requirements, non-functional requirements, system behavior, interfaces, and technical constraints.
+- Decisions And Notes: open questions, assumptions, constraints not yet approved, and early decisions.
