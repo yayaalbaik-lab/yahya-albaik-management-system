@@ -11,3 +11,4 @@
 - Strengthened the mandatory information classification and document update rule for all future user-provided project information.
 - Recorded the initial phase-one core inventory item list.
 - Added work session tracking and marked the current session as Governance & Setup.
+- Recorded open SPGF Constitution v6.2 errata in project adoption notes.

@@ -11,6 +11,7 @@ It may be split into separate registers later if the project grows.
 
 ## Open Questions
 
+- Should the project continue with SPGF Constitution v6.2 plus errata, or wait for a corrective v6.3 before deeper architecture work?
 - What does "matching the next day" mean exactly: same quantity, expected quantity after sales, or manager-approved difference?
 - Will the first phase use only manual counts, or will it read sales/consumption data from SQL Server?
 - Is SQL Server integration read-only in all cases?
@@ -40,6 +41,7 @@ It may be split into separate registers later if the project grows.
 ## Notes
 
 - Keep general SPGF documents unchanged.
+- SPGF Constitution v6.2 has an open governance errata in the general standards repo; avoid relying on unstable numeric section references until a corrective release is produced.
 - Future phases may include waste, profitability, and delivery-app reconciliation.
 - From this point forward, new information should be classified and written directly into the correct document: Charter, BRD, SRS, or this notes file.
 - No project-relevant information should remain only in chat. Each new statement must be classified and recorded in the correct document, or captured as an open question/assumption if not yet clear.
