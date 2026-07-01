@@ -87,6 +87,14 @@ If the information is unclear, Codex must record it as an open question or assum
 
 No project-relevant information should remain only in the chat.
 
+## Session Discipline
+
+Project work may be organized into separate conversations or phases for easier navigation.
+
+The active session should be recorded in `WORK_SESSIONS.md` when it becomes meaningful.
+
+Regardless of the active conversation, the repository remains the source of truth. Any project-relevant information must still be classified and written to the correct document.
+
 ## Engineering Discipline
 
 Codex must protect:

@@ -49,6 +49,8 @@ It may be split into separate registers later if the project grows.
 - Project-specific SPGF profile starts as `Standard`.
 - General SPGF documents remain reference-only under `docs/spgf/general`.
 - Codex working behavior is governed by `CODEX_WORKING_AGREEMENT.md`, under the authority of SPGF and the project-specific application documents.
+- Current work session is `Governance & Setup`.
+- Project work may be organized into separate sessions/phases, while the repository remains the source of truth.
 
 ## Information Classification Rule
 
@@ -70,3 +72,18 @@ For each new project-relevant user message:
 3. Update RTM if BRD/SRS requirements are added or changed.
 4. Record unresolved ambiguity as an open question.
 5. Mention the classification and updated document(s) in the response.
+
+## Session Organization
+
+Current session:
+
+- Governance & Setup.
+
+Planned future sessions:
+
+- Discovery & Business Rules.
+- Requirements BRD/SRS.
+- Architecture & Tech Decisions.
+- UX/UI Flows.
+- Implementation.
+- Testing & Release.
